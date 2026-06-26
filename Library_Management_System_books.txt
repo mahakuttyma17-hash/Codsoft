@@ -1,6 +1,0 @@
-1,C++ Programming,Bjarne Stroustrup,Programming,0,0,NA
-2,Wings of Fire,A P J Abdul Kalam,Biography,0,0,NA
-3,The Alchemist,Paulo Coelho,Fiction,0,0,NA
-4,Rich Dad Poor Dad,Robert Kiyosaki,Finance,0,0,NA
-5,Atomic Habits,James Clear,Self Help,0,0,NA
-6,Python,Guido Van Rossum,Programming,0,0,NA
