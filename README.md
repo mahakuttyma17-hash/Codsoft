@@ -4,8 +4,8 @@ Welcome to my repository for the CodSoft C++ Programming Internship. Below are t
 
 ---
 
-## 📁 Task 1: Number Guessing Game
-* **Source Code:** [View main.cpp](./Number_Guessing_game/main.cpp)
+## 📁 Task 1: Number Guessing game
+* **Source Code:** [View main.cpp](./Number_Guessing_ game/main.cpp)
 * **Video Demonstration:** [Watch Demo on Google Drive](https://drive.google.com/file/d/1OKpOXoL_iXlOY9hbU5fLBg74nV-v-CAc/view?usp=sharing)
 
 
